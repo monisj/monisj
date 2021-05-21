@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monisj&label=Profile%20views&color=0e75b6&style=flat" alt="monisj" /> </p>
 
-- 🔭 I’m currently working on [Substrate Dev](https://github.com/monisj/Substrate_Practise)
+- 🔭 I’m currently working on Hammer(Reusable Tool) and LLVM
 
-- 🌱 I’m currently learning **Scala and Rust**
+- 🌱 I’m currently learning **Scala and Chisel**
 
 - 👨‍💻 All of my projects are available at [https://github.com/monisj](https://github.com/monisj)
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python and Scala**
 
 - 📫 How to reach me **monisj94@gmail.com**
 
