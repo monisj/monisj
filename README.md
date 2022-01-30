@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Monis Jawed</h1>
-<h3 align="center">A passionate Programmer from Pakistan</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monisj&label=Profile%20views&color=0e75b6&style=flat" alt="monisj" /> </p>
 
