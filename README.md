@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on Mediapipe and Image Recognition
 
-- 🌱 I’m currently learning **Tensorflow**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/monisj](https://github.com/monisj)
 
