@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monisj&label=Profile%20views&color=0e75b6&style=flat" alt="monisj" /> </p>
 
-- 🔭 I’m currently working on Mediapipe and Image Recognition
+- 🔭 I’m currently working on Ensemble Learning and Image Recognition
 
-- 🌱 I’m currently learning **Reactjs**
+- 🌱 I’m currently learning **OpenCV**
 
 - 👨‍💻 All of my projects are available at [https://github.com/monisj](https://github.com/monisj)
 
